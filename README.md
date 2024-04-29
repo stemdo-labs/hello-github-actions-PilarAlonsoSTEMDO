@@ -3,6 +3,7 @@
 # Hello GitHub Actions
 
 _Crea y ejecuta un flujo de trabajo de GitHub Actions._
+:smile:_
 
 </header>
 
